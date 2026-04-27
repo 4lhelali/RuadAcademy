@@ -1,0 +1,375 @@
+{
+  "language": {
+    "label": "Dil",
+    "english": "English",
+    "arabic": "العربية",
+    "turkish": "Türkçe"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "contact": "İletişim",
+    "posts": "Son Gönderiler",
+    "dashboard": "Yönetim Paneli",
+    "logout": "Çıkış Yap",
+    "toggleMenu": "Menüyü aç"
+  },
+  "footer": {
+    "tagline": "Kaliteli eğitim ve yenilikçi öğrenme deneyimleriyle zihinleri güçlendiriyor, gelecekleri dönüştürüyoruz.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "programs": "Programlar",
+    "contact": "İletişim",
+    "address": "RuadAcademy , Karabük",
+    "rights": "Tüm hakları saklıdır.",
+    "programList": {
+      "humanDevelopment": "Kişisel Gelişim",
+      "languageLearning": "Dil Öğrenimi",
+      "officeTools": "Excel ve Word",
+      "graphicDesign": "Grafik Tasarım",
+      "others": "Diğer"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "2026 Karabük'ün 1 Numaralı Akademisi",
+      "titlePart1": "Tüm",
+      "titleHighlight": "Potansiyelini",
+      "titlePart2": "Bizimle Keşfet",
+      "subtitle": "Uzman eğitmenlerimizin liderliğindeki programlarla kariyerini dönüştüren 300'den fazla öğrenciye katıl. Başarıya giden yolculuk burada başlıyor.",
+      "ctaExplore": "Programları İncele",
+      "perks": {
+        "schedule": "Esnek Öğrenme Programı",
+        "certificates": "Sektörde Tanınan Sertifikalar",
+        "mentorship": "Uzman Mentorluğu"
+      }
+    },
+    "stats": {
+      "students": "Kayıtlı Öğrenci",
+      "instructors": "Uzman Eğitmen",
+      "courses": "Mevcut Kurs",
+      "success": "Başarı Oranı"
+    },
+    "why": {
+      "eyebrow": "Neden Biz",
+      "title": "Başarı için İhtiyacın Olan Her Şey",
+      "subtitle": "Hedeflerine ulaşmana yardımcı olacak kapsamlı bir öğrenme ortamı sunuyoruz.",
+      "items": {
+        "curriculum": {
+          "title": "Kaliteli Müfredat",
+          "description": "Programlarımız, en güncel ve etkili öğrenme deneyimini sunmak için sektör liderleri ve akademik uzmanlar tarafından tasarlanmıştır."
+        },
+        "instructors": {
+          "title": "Uzman Eğitmenler",
+          "description": "En iyilerden öğren — yıllara dayanan saha tecrübesine ve eğitim tutkusuna sahip sertifikalı profesyoneller."
+        },
+        "certificates": {
+          "title": "Akredite Sertifikalar",
+          "description": "Yeni kariyer fırsatlarının kapısını aralayan, uzmanlığını kanıtlayan tanınmış sertifikalar kazan."
+        },
+        "career": {
+          "title": "Kariyer Gelişimi",
+          "description": "Kariyer destek ekibimiz, mezunlarımızın alanlarındaki en iyi fırsatları bulmasına yardımcı olur."
+        }
+      }
+    },
+    "courses": {
+      "eyebrow": "Popüler Programlar",
+      "title": "Öne Çıkan Kurslar",
+      "viewAll": "Tüm Kursları Gör",
+      "studentsSuffix": "öğrenci",
+      "items": {
+        "humanDevelopment": {
+          "title": "Kişisel Gelişim Programları",
+          "level": "Başlangıçtan İleri Seviyeye",
+          "duration": "birkaç gün",
+          "students": "50+"
+        },
+        "office": {
+          "title": "Excel, Word Programları",
+          "level": "Orta Seviye",
+          "duration": "birkaç gün",
+          "students": "40+"
+        },
+        "languages": {
+          "title": "Dil Öğrenimi (Türkçe)",
+          "level": "Başlangıç Seviyesi",
+          "duration": "birkaç hafta",
+          "students": "30+"
+        },
+        "design": {
+          "title": "Grafik Tasarım Kursları",
+          "level": "Başlangıç",
+          "duration": "birkaç gün",
+          "students": "20+"
+        },
+        "others": {
+          "title": "Diğer",
+          "level": "Başlangıç",
+          "duration": "birkaç gün",
+          "students": "60+"
+        }
+      }
+    },
+    "posts": {
+      "eyebrow": "Son Güncellemeler",
+      "title": "Son Gönderiler",
+      "viewAll": "Tüm Gönderileri Gör",
+      "readMore": "Devamını Oku",
+      "externalLink": "Harici bağlantı"
+    },
+    "testimonials": {
+      "eyebrow": "Yorumlar",
+      "title": "Öğrencilerimiz Ne Diyor",
+      "subtitle": "Birçok öğrencimiz RuadAcademy ile hayatını çoktan dönüştürdü.",
+      "items": {
+        "sarah": {
+          "name": "Sarah",
+          "role": "Yazılım Mühendisliği Öğrencisi",
+          "content": "Üniversitede okurken RuadAcademy bana çok yardımcı oldu."
+        },
+        "ahmed": {
+          "name": "Ahmed",
+          "role": "İş Analisti Öğrencisi",
+          "content": "Akademiden çok bilgi edindim."
+        },
+        "manar": {
+          "name": "Manar",
+          "role": "Hemşirelik Öğrencisi",
+          "content": "Acil durum derslerine giriş kurslarını aldım ve becerilerimi geliştirmemde çok faydalı oldu."
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "RuadAcademy Hakkında",
+      "titlePart1": "Geleceği",
+      "titleHighlight": "Eğitimle Şekillendiriyoruz",
+      "subtitle": "2023 yılında kurulan Ruwad Akademisi, kar amacı gütmeyen bir eğitim girişimi olup, motive olmuş öğrencilere olağanüstü yetenekler kazanmaları için gerekli bilgi, beceri ve ağı sağlayarak eğitim inovasyonunda öncü konumdadır. Akademi, öğrencilerin akademik, pratik ve mesleki gelişimlerine katkıda bulunmayı, onlara büyümelerine, iş piyasasına hazırlanmalarına ve daha iyi bir gelecek inşa etmelerine yardımcı olacak erişilebilir ve ilgili eğitim içeriği sunmayı amaçlamaktadır.."
+    },
+    "story": {
+      "eyebrow": "Hikayemiz",
+      "title": "Dönüştürücü Öğrenmeye Bağlılık",
+      "body": "RuadAcademy, tek ve güçlü bir inançla kuruldu: Amacımız, gençleri akademik ve mesleki hayatlarında ihtiyaç duyacakları beceri, özgüven ve bilinçle desteklemek; aynı zamanda iş birliği, saygılı iletişim ve karşılıklı faydaya dayalı güçlü bir öğrenci ağı oluşturmaktır.",
+      "bullets": {
+        "curriculum": "Üç ayda bir güncellenen, sektör onaylı müfredat",
+        "projects": "Gerçek dünyada etki yaratan uygulamalı projeler",
+        "alumni": "Mezunlar ağına ömür boyu erişim",
+        "free": "Ücretsiz eğitim"
+      },
+      "stats": {
+        "graduates": "Mezun",
+        "career": "Kariyer Başarısı",
+        "courses": "Kurs"
+      }
+    },
+    "values": {
+      "eyebrow": "Değerlerimiz",
+      "title": "Bize Yön Veren İlkeler",
+      "subtitle": "Aldığımız her karar, kim olduğumuzu tanımlayan bu temel değerlerden köken alır.",
+      "items": {
+        "excellence": {
+          "title": "Mükemmellik",
+          "description": "Müfredat tasarımında, eğitim kalitesinde ve öğrenci sonuçlarında en yüksek standartları benimsiyoruz."
+        },
+        "passion": {
+          "title": "Tutku",
+          "description": "Eğitmenlerimiz her öğrencinin potansiyelini keşfetmesi için gerçek bir tutkuyla çalışır."
+        },
+        "inclusion": {
+          "title": "Kapsayıcılık",
+          "description": "Her geçmişten öğrenciyi karşılıyor, farklı bakış açılarının eğitim deneyimini zenginleştirdiğine inanıyoruz."
+        },
+        "innovation": {
+          "title": "Yenilikçilik",
+          "description": "En etkili öğrenme deneyimini sunmak için yöntemlerimizi ve teknolojimizi sürekli geliştiriyoruz."
+        }
+      }
+    },
+    "team": {
+      "eyebrow": "Liderlik Ekibi",
+      "title": "Vizyoner Ekibimizden Bazıları",
+      "subtitle": "Liderlik ekibimiz; eğitim, teknoloji ve kariyer geliştirme alanlarında zengin bir deneyime sahiptir.",
+      "members": {
+        "zakir": {
+          "name": "Dr. Zakir Alsaqqaf",
+          "role": "Araştırmacı",
+          "bio": "İnsan kaynakları danışmanı - Kurumsal Yönetişim alanında araştırmacı."
+        },
+        "bilal": {
+          "name": "Dr. Bilal Al-Faqih",
+          "role": "Doktora Araştırmacısı",
+          "bio": "Doktora Araştırmacısı - Din Psikolojisi."
+        },
+        "noor": {
+          "name": "Mohammed Noor",
+          "role": "SEO Uzmanı",
+          "bio": "Yazılımcı ve SEO uzmanı."
+        }
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Programlarımız",
+      "titlePart1": "Gerçek Sonuçlar için",
+      "titleHighlight": "Tasarlanmış Programlar",
+      "subtitle": "Başlangıçtan ileri seviyeye, ustalıkla hazırlanmış programlarımız öğrencilerin gerçekten istediği becerileri kazandırır."
+    },
+    "tracks": {
+      "eyebrow": "Öğrenme Yolları",
+      "title": "Başarıya Giden Yolu Sen Seç",
+      "subtitle": "Temelden ustalığa, her biri özel olarak tasarlanmış altı kapsamlı öğrenme yolu."
+    },
+    "tags": {
+      "mostPopular": "En Popüler",
+      "highDemand": "Yüksek Talep"
+    },
+    "levels": {
+      "beginnerToAdvanced": "Başlangıçtan İleri Seviyeye",
+      "intermediateToAdvanced": "Orta Seviyeden İleri Seviyeye",
+      "allLevels": "Tüm Seviyeler"
+    },
+    "programs": {
+      "tech": {
+        "title": "Teknoloji ve Dijital Beceriler",
+        "description": "SEO ve web geliştirme - Word ve Excel.",
+        "courses": {
+          "webs": "Basit web siteleri oluşturma",
+          "word": "Word",
+          "excel": "Excel"
+        },
+        "duration": "3–6 gün"
+      },
+      "human": {
+        "title": "Kişisel Gelişim",
+        "description": "Liderlik ve kişisel gelişim becerilerini güçlendirme.",
+        "courses": {
+          "main": "Kişisel gelişim kursları"
+        },
+        "duration": "4–8 gün"
+      },
+      "languages": {
+        "title": "Diller ve İletişim",
+        "description": "Konuşma pratiği dahil dil öğrenimi.",
+        "courses": {
+          "english": "İngilizce",
+          "turkish": "Türkçe"
+        },
+        "duration": "1–2 hafta"
+      },
+      "career": {
+        "title": "Kariyere Hazırlık",
+        "description": "Kariyer odaklı.",
+        "courses": {
+          "jobMarket": "İş hayatına hazırlık"
+        },
+        "duration": "1–2 hafta"
+      },
+      "specialization": {
+        "title": "Uzmanlık ve Saha Deneyimi",
+        "description": "Kariyer odaklı.",
+        "courses": {
+          "jobMarket": "İş hayatına hazırlık"
+        },
+        "duration": "1–2 hafta"
+      },
+      "innovation": {
+        "title": "Yenilikçilik ve Girişimcilik",
+        "description": "Kariyer odaklı.",
+        "courses": {
+          "jobMarket": "İş hayatına hazırlık"
+        },
+        "duration": "1–2 hafta"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Bize Ulaşın",
+      "titlePart1": "Sizden Haber Almak",
+      "titleHighlight": "Bizi Mutlu Eder",
+      "subtitle": "Programlarımızla ilgili bir sorunuz olsun, daha fazla bilgi almak isteyin ya da öğrenmeye hazır olun — ekibimiz size ücretsiz olarak yardımcı olmak için burada."
+    },
+    "info": {
+      "eyebrow": "İletişim Bilgileri",
+      "title": "Hadi Sohbete Başlayalım",
+      "subtitle": "İstediğiniz kanaldan bize ulaşın — tüm sorulara 24 saat içinde yanıt vermeyi hedefliyoruz.",
+      "items": {
+        "location": {
+          "title": "Konumumuz",
+          "line1": "RuadAcademy ",
+          "line2": "Karabük"
+        },
+        "phone": {
+          "title": "Telefon Numarası"
+        },
+        "email": {
+          "title": "E-posta Adresi"
+        }
+      }
+    },
+    "form": {
+      "title": "Bize Mesaj Gönderin",
+      "fullName": "Ad Soyad",
+      "email": "E-posta Adresi",
+      "phone": "Telefon Numarası",
+      "inquiry": "Talep Türü",
+      "message": "Mesajınız",
+      "namePlaceholder": "Ad Soyad",
+      "emailPlaceholder": "ornek@eposta.com",
+      "phonePlaceholder": "+90 555 000 0000",
+      "messagePlaceholder": "Size nasıl yardımcı olabileceğimizi anlatın...",
+      "selectTopic": "Bir konu seçin...",
+      "submit": "Mesajı Gönder",
+      "submitting": "Gönderiliyor...",
+      "success": {
+        "title": "Mesaj Gönderildi!",
+        "body": "Bize ulaştığınız için teşekkürler! Mesajınızı aldık ve 24 saat içinde size geri döneceğiz.",
+        "another": "Başka Bir Mesaj Gönder"
+      },
+      "error": "Mesaj gönderilemedi. Lütfen doğrudan akadymytruad@gmail.com adresine e-posta gönderin.",
+      "required": "*"
+    },
+    "inquiryTypes": {
+      "program": "Program Sorusu",
+      "admissions": "Kayıt",
+      "financial": "Mali Destek",
+      "corporate": "Kurumsal Eğitim",
+      "support": "Teknik Destek",
+      "other": "Diğer"
+    }
+  },
+  "posts": {
+    "hero": {
+      "eyebrow": "Galeri",
+      "titlePart1": "Son",
+      "titleHighlight": "Gönderilerimiz",
+      "subtitle": "RuadAcademy'den anları, etkinlikleri ve öne çıkanları keşfedin."
+    },
+    "section": {
+      "eyebrow": "Son Güncellemeler",
+      "title": "Görsel Anılar",
+      "subtitle": "Yolculuğumuza, etkinliklerimize ve öğrenci deneyimlerimize bir bakış."
+    },
+    "states": {
+      "loadError": "Gönderiler yüklenemedi. Lütfen veritabanı yapılandırmanızı kontrol edin.",
+      "emptyTitle": "Henüz gönderi yok.",
+      "emptySubtitle": "Yönetici, kontrol panelinden gönderi ekleyebilir."
+    },
+    "viewMore": "Daha Fazla Gör",
+    "detail": {
+      "back": "Geri",
+      "backToAll": "Tüm gönderilere dön",
+      "externalLink": "Harici bağlantıyı ziyaret et",
+      "notFoundTitle": "Gönderi bulunamadı.",
+      "notFoundSubtitle": "Kaldırılmış olabilir veya bağlantı hatalı."
+    }
+  },
+  "notFound": {
+    "title": "Sayfa Bulunamadı",
+    "subtitle": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "back": "Ana Sayfaya Dön"
+  }
+}

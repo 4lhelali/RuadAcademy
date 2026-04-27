@@ -1,0 +1,375 @@
+{
+  "language": {
+    "label": "Language",
+    "english": "English",
+    "arabic": "العربية",
+    "turkish": "Türkçe"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "posts": "Recent Posts",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "toggleMenu": "Toggle menu"
+  },
+  "footer": {
+    "tagline": "Empowering minds and transforming futures through a good education and innovative learning experiences.",
+    "quickLinks": "Quick Links",
+    "programs": "Programs",
+    "contact": "Contact",
+    "address": "RuadAcademy , Karabuk City",
+    "rights": "All rights reserved.",
+    "programList": {
+      "humanDevelopment": "Human Development",
+      "languageLearning": "Language Learning",
+      "officeTools": "Excel, Word",
+      "graphicDesign": "Graphic Design",
+      "others": "Others"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Rated #1 Academy in Karabuk 2026",
+      "titlePart1": "Unlock Your Full",
+      "titleHighlight": "Potential",
+      "titlePart2": "With Us",
+      "subtitle": "Join over 300 students who have transformed their careers through our expert-led programs. Your journey to success starts here.",
+      "ctaExplore": "Explore Programs",
+      "perks": {
+        "schedule": "Flexible Learning Schedule",
+        "certificates": "Industry-recognized Certificates",
+        "mentorship": "Expert Mentorship"
+      }
+    },
+    "stats": {
+      "students": "Students Enrolled",
+      "instructors": "Expert Instructors",
+      "courses": "Courses Available",
+      "success": "Success Rate"
+    },
+    "why": {
+      "eyebrow": "Why Choose Us",
+      "title": "Everything You Need to Succeed",
+      "subtitle": "We provide a comprehensive learning environment designed to help you achieve your goals.",
+      "items": {
+        "curriculum": {
+          "title": "Class Curriculum",
+          "description": "Our programs are designed by industry leaders and academic experts to ensure the most relevant and effective learning experience."
+        },
+        "instructors": {
+          "title": "Expert Instructors",
+          "description": "Learn from the best — certified professionals with years of real-world experience and a passion for teaching."
+        },
+        "certificates": {
+          "title": "Accredited Certificates",
+          "description": "Earn recognized certifications that open doors to new career opportunities and demonstrate your expertise."
+        },
+        "career": {
+          "title": "Career Growth",
+          "description": "Our dedicated career support team helps graduates find the best opportunities in their field of study."
+        }
+      }
+    },
+    "courses": {
+      "eyebrow": "Popular Programs",
+      "title": "Featured Courses",
+      "viewAll": "View All Courses",
+      "studentsSuffix": "students",
+      "items": {
+        "humanDevelopment": {
+          "title": "Human Development Programs",
+          "level": "Beginner to Advanced",
+          "duration": "few days",
+          "students": "50+"
+        },
+        "office": {
+          "title": "Excel, Word Programs",
+          "level": "Intermediate",
+          "duration": "few days",
+          "students": "40+"
+        },
+        "languages": {
+          "title": "Learning Languages (Turkish)",
+          "level": "Beginner Levels",
+          "duration": "few weeks",
+          "students": "30+"
+        },
+        "design": {
+          "title": "Graphic Design Courses",
+          "level": "Beginner",
+          "duration": "few days",
+          "students": "20+"
+        },
+        "others": {
+          "title": "Others",
+          "level": "Beginner",
+          "duration": "few days",
+          "students": "60+"
+        }
+      }
+    },
+    "posts": {
+      "eyebrow": "Latest Updates",
+      "title": "Recent Posts",
+      "viewAll": "View All Posts",
+      "readMore": "Read More",
+      "externalLink": "External link"
+    },
+    "testimonials": {
+      "eyebrow": "Testimonials",
+      "title": "What Our Students Say",
+      "subtitle": "Many of our students have already transformed their lives with RuadAcademy.",
+      "items": {
+        "sarah": {
+          "name": "Sarah",
+          "role": "Software Engineer Student",
+          "content": "RuadAcademy has helped me while I was studying at the university."
+        },
+        "ahmed": {
+          "name": "Ahmed",
+          "role": "Business Analyst Student",
+          "content": "I have gained much knowledge from the academy."
+        },
+        "manar": {
+          "name": "Manar",
+          "role": "Nurse Student",
+          "content": "I have studied introductions to emergency courses and It helped me a lot scaling my skills."
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About RuadAcademy",
+      "titlePart1": "Shaping the Future",
+      "titleHighlight": "Through Education",
+      "subtitle": "Since 2023, RuadAcademy which owned by ( Karabuk yodt ) has been at the forefront of educational innovation, It is a non-profit educational initiative dedicated for supporting students and developing their academic, practical, and professional skills. The academy provides accessible and valuable learning content designed to help students grow, prepare for the job market, and build a stronger future."
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "A Commitment to Transformative Learning",
+      "body": "RuadAcademy was founded with a single, powerful belief: that Our mission is to empower young people with the skills, confidence, and awareness they need in their academic and professional journeys, while promoting cooperation, respectful communication, and a strong student network based on shared learning and mutual support..",
+      "bullets": {
+        "curriculum": "Industry-validated curriculum updated quarterly",
+        "projects": "Hands-on projects with real-world impact",
+        "alumni": "Lifetime access to alumni network",
+        "free": "Free education"
+      },
+      "stats": {
+        "graduates": "Graduates",
+        "career": "Career Success",
+        "courses": "Courses"
+      }
+    },
+    "values": {
+      "eyebrow": "Our Values",
+      "title": "The Principles That Guide Us",
+      "subtitle": "Every decision we make is rooted in these core values that define who we are.",
+      "items": {
+        "excellence": {
+          "title": "Excellence",
+          "description": "We hold ourselves to the highest standards in curriculum design, teaching quality, and student outcomes."
+        },
+        "passion": {
+          "title": "Passion",
+          "description": "Our educators are deeply passionate about helping every student discover their potential and thrive."
+        },
+        "inclusion": {
+          "title": "Inclusion",
+          "description": "We welcome learners from all backgrounds, believing that diverse perspectives enrich the educational experience."
+        },
+        "innovation": {
+          "title": "Innovation",
+          "description": "We continuously evolve our methods and technology to deliver the most effective learning experience."
+        }
+      }
+    },
+    "team": {
+      "eyebrow": "Leadership Team",
+      "title": "Some of our Visionaries",
+      "subtitle": "Our leadership team brings expertise in education, technology, and career development.",
+      "members": {
+        "zakir": {
+          "name": "Dr. Zakir Alsaqqaf",
+          "role": "Researcher",
+          "bio": "Human resources consultant - Researcher in institutional Governance."
+        },
+        "bilal": {
+          "name": "Dr. Bilal Al-Faqih",
+          "role": "PHD Researcher",
+          "bio": "Phd Researcher - Psychology of Religion."
+        },
+        "noor": {
+          "name": "Mohammed Noor",
+          "role": "SEO Expert",
+          "bio": "A programmer and SEO Expert."
+        }
+      }
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Our Programs",
+      "titlePart1": "Programs Built for",
+      "titleHighlight": "Real Results",
+      "subtitle": "From beginner to advanced, our expertly crafted programs are designed to give you the skills students actually want."
+    },
+    "tracks": {
+      "eyebrow": "Learning Tracks",
+      "title": "Choose Your Path to Success",
+      "subtitle": "Six comprehensive learning tracks, each designed to take you from foundation to mastery."
+    },
+    "tags": {
+      "mostPopular": "Most Popular",
+      "highDemand": "High Demand"
+    },
+    "levels": {
+      "beginnerToAdvanced": "Beginner to Advanced",
+      "intermediateToAdvanced": "Intermediate to Advanced",
+      "allLevels": "All Levels"
+    },
+    "programs": {
+      "tech": {
+        "title": "Technology & Digital skills",
+        "description": "SEO web development - Word and Excel.",
+        "courses": {
+          "webs": "Creating simple webs",
+          "word": "Word",
+          "excel": "Excel"
+        },
+        "duration": "3–6 days"
+      },
+      "human": {
+        "title": "Human development",
+        "description": "Improving leadership and human developing.",
+        "courses": {
+          "main": "Human development courses"
+        },
+        "duration": "4–8 days"
+      },
+      "languages": {
+        "title": "Languages & Communication",
+        "description": "Learning languages including speaking practice.",
+        "courses": {
+          "english": "English",
+          "turkish": "Turkish"
+        },
+        "duration": "1–2 weeks"
+      },
+      "career": {
+        "title": "Career Readiness",
+        "description": "Career focus.",
+        "courses": {
+          "jobMarket": "Prepare for the job market"
+        },
+        "duration": "1–2 weeks"
+      },
+      "specialization": {
+        "title": "Specialization & Field Experience",
+        "description": "Career focus.",
+        "courses": {
+          "jobMarket": "Prepare for the job market"
+        },
+        "duration": "1–2 weeks"
+      },
+      "innovation": {
+        "title": "Innovation & Entrepreneurship",
+        "description": "Career focus.",
+        "courses": {
+          "jobMarket": "Prepare for the job market"
+        },
+        "duration": "1–2 weeks"
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get in Touch",
+      "titlePart1": "We'd Love to",
+      "titleHighlight": "Hear From You",
+      "subtitle": "Whether you have a question about our programs, want to learn more, or are ready to learn — our team is here to help for free."
+    },
+    "info": {
+      "eyebrow": "Contact Info",
+      "title": "Let's Start a Conversation",
+      "subtitle": "Reach out through any channel — we aim to respond to all inquiries within 24 hours.",
+      "items": {
+        "location": {
+          "title": "Our Location",
+          "line1": "RuadAcademy ",
+          "line2": "Karabuk City"
+        },
+        "phone": {
+          "title": "Phone Number"
+        },
+        "email": {
+          "title": "Email Address"
+        }
+      }
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "inquiry": "Inquiry Type",
+      "message": "Your Message",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "phonePlaceholder": "+1 (555) 000-0000",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "selectTopic": "Select a topic...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent!",
+        "body": "Thank you for reaching out! We've received your message and will get back to you within 24 hours.",
+        "another": "Send Another Message"
+      },
+      "error": "Failed to send message. Please try emailing us directly at akadymytruad@gmail.com",
+      "required": "*"
+    },
+    "inquiryTypes": {
+      "program": "Program Inquiry",
+      "admissions": "Admissions",
+      "financial": "Financial Aid",
+      "corporate": "Corporate Training",
+      "support": "Technical Support",
+      "other": "Other"
+    }
+  },
+  "posts": {
+    "hero": {
+      "eyebrow": "Gallery",
+      "titlePart1": "Our",
+      "titleHighlight": "Recent Posts",
+      "subtitle": "Explore moments, events, and highlights from RuadAcademy."
+    },
+    "section": {
+      "eyebrow": "Latest Updates",
+      "title": "Visual Highlights",
+      "subtitle": "A glimpse into our journey, events, and student experiences."
+    },
+    "states": {
+      "loadError": "Could not load posts. Please check your database configuration.",
+      "emptyTitle": "No posts yet.",
+      "emptySubtitle": "The admin can add posts from the dashboard."
+    },
+    "viewMore": "View More",
+    "detail": {
+      "back": "Back",
+      "backToAll": "Back to all posts",
+      "externalLink": "Visit external link",
+      "notFoundTitle": "Post not found.",
+      "notFoundSubtitle": "It may have been removed or the link is incorrect."
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for doesn't exist or has been moved.",
+    "back": "Back to Home"
+  }
+}
