@@ -49,7 +49,7 @@ function Router() {
   return (
     <Switch>
       {/* Admin routes — no Navbar/Footer */}
-      <Route path="/adminlogin" component={AdminLogin} />
+      <Route path="https://akadymyatruad.vercel.app/adminLogin" component={AdminLogin} />
       <Route path="/admin/dashboard" component={AdminDashboard} />
       {/* All public routes */}
       <Route component={PublicLayout} />
