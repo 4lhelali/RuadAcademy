@@ -1,0 +1,22 @@
+# .htaccess for Hostinger shared hosting
+  # Handles React SPA routing + allows PHP API requests to pass through
+
+  Options -MultiViews
+  RewriteEngine On
+
+  # Allow direct file and directory access (CSS, JS, images, etc.)
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Pass PHP API requests through to PHP (must come BEFORE SPA catch-all)
+  RewriteRule ^api/(.*)$ api/$1 [L]
+
+  # All other requests → serve index.html (React SPA client-side routing)
+  RewriteRule ^ index.html [QSA,L]
+
+  # PHP settings for Hostinger
+  php_flag display_errors off
+  php_value upload_max_filesize 8M
+  php_value post_max_size 8M
+  
