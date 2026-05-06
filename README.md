@@ -1,8 +1,4 @@
-# RuadAcademy — Upgraded Project Setup Guide
-
-This guide walks you through setting up all 7 new features step by step.
-
----
+# RuadAcademy — Project Setup Guide
 
 ## 📦 Step 1 — Install Dependencies
 
@@ -10,13 +6,11 @@ This guide walks you through setting up all 7 new features step by step.
 npm install
 ```
 
----
-
 ## 🗄️ Step 2 — Neon Database Setup
 
 ### 2.1 Create Neon Project
 1. Go to **https://neon.tech** → Sign up (free tier available)
-2. Click **"New Project"** → Name it `ruad-academy`
+2. Click **"New Project"** → Name it `..... `
 3. Choose a region close to you (e.g., `AWS us-east-2`)
 4. Click **"Create Project"**
 
@@ -26,11 +20,7 @@ npm install
 3. Select **.env** format
 4. Copy the `DATABASE_URL` value
 
-### 2.3 Configure Environment
-1. Copy `.env.example` to `.env`:
-   ```bash
-   cp .env.example .env
-   ```
+
 2. Paste your Neon connection string:
    ```
    DATABASE_URL=postgresql://user:pass@ep-xxx.region.aws.neon.tech/neondb?sslmode=require
@@ -61,7 +51,7 @@ VITE_UPLOADTHING_APP_ID=your_app_id
 VITE_UPLOADTHING_SECRET=sk_live_xxxxxxxxx
 ```
 
----
+
 
 ## 📧 Step 4 — EmailJS Setup (Contact Form → Email)
 
@@ -125,9 +115,6 @@ VITE_ADMIN_PASSWORD=YourSecurePassword2026!
 npm run dev
 ```
 
-Open **http://localhost:5173**
-
----
 
 ## 🗺️ URL Structure
 
@@ -156,31 +143,3 @@ Open **http://localhost:5173**
 
 ---
 
-## 🌐 Deploy to Vercel
-
-1. Push your project to GitHub
-2. Go to **https://vercel.com** → Import project
-3. Add all `.env` variables in **Vercel → Settings → Environment Variables**
-4. Deploy!
-
-> The `vercel.json` already handles SPA routing.
-
----
-
-## 🆘 Troubleshooting
-
-**Posts not loading?**
-→ Check `VITE_DATABASE_URL` is set correctly in `.env`
-→ Run `npx drizzle-kit push` to make sure tables exist
-
-**Images not uploading?**
-→ Check `VITE_UPLOADTHING_SECRET` is set
-→ Images will fall back to local preview if UploadThing fails
-
-**Contact email not sending?**
-→ Check all 3 EmailJS keys are set in `.env`
-→ If not configured, the form will open your default email client as fallback
-
-**Admin login not working?**
-→ Check `VITE_ADMIN_USERNAME` and `VITE_ADMIN_PASSWORD` in `.env`
-→ Default credentials are `admin` / `ruadacademy2026`
